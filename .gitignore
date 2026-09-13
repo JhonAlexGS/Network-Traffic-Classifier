@@ -1,0 +1,15 @@
+.vscode
+
+# Los datos no se suben: pesan y tienen su propia licencia.
+datos/
+*.csv
+
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Resultados generados
+resultados/*.png
+resultados/*.csv
+!resultados/.gitkeep
