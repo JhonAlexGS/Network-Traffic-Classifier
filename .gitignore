@@ -3,6 +3,8 @@
 # Los datos no se suben: pesan y tienen su propia licencia.
 datos/
 *.csv
+*.parquet
+*.zip
 
 # Entorno
 .venv/
