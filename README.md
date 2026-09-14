@@ -220,7 +220,6 @@ techo de acierto que ningún modelo puede superar.
 - [x] Paso 4 — tratar el desequilibrio (`class_weight`, SMOTE, submuestreo)
 - [x] Paso 5 — cuantificar el techo de las etiquetas contradictorias
 - [x] Paso 6 — *boosting* y uno-contra-resto
-- [ ] Paso 7 — comparativa final y cierre del README
 
 ## Resultados hasta ahora
 
